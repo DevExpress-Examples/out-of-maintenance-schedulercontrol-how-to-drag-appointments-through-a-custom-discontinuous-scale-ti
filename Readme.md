@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomScales.cs](./CS/WindowsFormsApplication1/CustomScales.cs) (VB: [CustomScales.vb](./VB/WindowsFormsApplication1/CustomScales.vb))
+* [Form1.cs](./CS/WindowsFormsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication1/Form1.vb))
+<!-- default file list end -->
 # SchedulerControl - How to drag appointments through a custom discontinuous scale (TimeLineView)
 
 
